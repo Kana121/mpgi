@@ -1,0 +1,33 @@
+.container{
+    background-color: #facd07;
+    border: 0px solid rgba(0, 0, 0, 0.527);
+    border-radius: 15px;
+    padding: 10px 20px;
+    margin-top: 20px;
+  
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+   
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .login-img img{
+   
+    border: 0px solid black;
+    border-radius: 50%;
+    height: 150px;
+    margin: 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  .text-shadow{
+    text-shadow: 3px 3px 2px rgba(26, 25, 25, 0.432);
+  }
